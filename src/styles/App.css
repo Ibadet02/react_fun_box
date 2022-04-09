@@ -1,0 +1,16 @@
+body{
+    overflow: hidden;
+}
+.wrapper{
+    background-image: url("../Components/images/download.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    height: 100vh;
+    flex-direction: column-reverse;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}

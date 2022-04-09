@@ -1,0 +1,23 @@
+.sidebar{
+    display: flex;
+    gap: 10px;
+    transition: transform .5s;
+}
+button{
+    color: #fff;
+    border: none;
+    background: #f68a01;
+    border-radius: 25px;
+    transition: background .1s;
+    cursor: pointer;
+    font-weight: 600;
+    padding: 12px 24px;
+    user-select: none;
+}
+button:hover{
+    background: #ce7500;
+}
+button:active{
+    position: relative;
+    top: 2px;
+}
