@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-fun-box/static/css/main.676061c1.css",
+    "main.js": "/react-fun-box/static/js/main.b28d2c56.js",
+    "static/js/787.a74d8958.chunk.js": "/react-fun-box/static/js/787.a74d8958.chunk.js",
+    "static/media/download.png": "/react-fun-box/static/media/download.a3d34bdf22eb917a252a.png",
+    "static/media/ondasagol.png": "/react-fun-box/static/media/ondasagol.51ec630a55c7446c5c02.png",
+    "index.html": "/react-fun-box/index.html",
+    "main.676061c1.css.map": "/react-fun-box/static/css/main.676061c1.css.map",
+    "main.b28d2c56.js.map": "/react-fun-box/static/js/main.b28d2c56.js.map",
+    "787.a74d8958.chunk.js.map": "/react-fun-box/static/js/787.a74d8958.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.676061c1.css",
+    "static/js/main.b28d2c56.js"
+  ]
+}
