@@ -22,7 +22,7 @@ button:active{
     top: 2px;
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 654px){
     .sidebar{
         display: flex;
         gap: 4px;
