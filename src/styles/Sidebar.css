@@ -21,3 +21,12 @@ button:active{
     position: relative;
     top: 2px;
 }
+
+@media screen and (max-width:600px){
+    .sidebar{
+        gap: 5px;
+    }
+    button{
+        padding: 9px 18px;
+    }
+}
