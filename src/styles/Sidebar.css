@@ -24,9 +24,11 @@ button:active{
 
 @media screen and (max-width:600px){
     .sidebar{
-        gap: 5px;
+        gap: 4px;
     }
     button{
-        padding: 9px 18px;
+        padding: 7px 15px;
+        border-radius: 20px;
+        font-weight: 400;
     }
 }
