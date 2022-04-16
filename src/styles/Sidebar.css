@@ -27,6 +27,7 @@ button:active{
         display: flex;
         gap: 4px;
     }
+    
     button{
         padding: 7px 15px;
         border-radius: 20px;
