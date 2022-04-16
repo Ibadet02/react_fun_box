@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/Animation.css"
-import myimg from "../Components/images/ondasagol.png"
+import myimg from "./Components/images/ondasagol.png"
 export default function Animation(props){
     var copyProps={...props}
     if(copyProps.circle[0]==="circle"){
